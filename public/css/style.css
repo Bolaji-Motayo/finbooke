@@ -1,0 +1,15 @@
+body{
+    background-color: #f2f6fd;
+}
+
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+
+.finbooke-text {
+    text-align: center;
+    font-size: 2rem;
+    color: #fff;
+    background-color: rgb(20, 1, 51);
+}
